@@ -1,0 +1,6 @@
+{
+    "require": {
+        "exeu/apai-io": "~2.0",
+        "larapack/dd": "1.*"
+    }
+}
